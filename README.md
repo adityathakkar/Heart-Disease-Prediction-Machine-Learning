@@ -14,6 +14,7 @@ Feature #14 has also been reduced to a binary problem to detect the presence of 
 Performance Specs: 
 
 Random Forest Classifier - 83% accuracy
+
 Neural Net - 84% accuracy 
 
 Note About Neural Nets: 
