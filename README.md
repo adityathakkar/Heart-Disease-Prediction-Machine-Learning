@@ -19,4 +19,4 @@ Neural Net - 84% accuracy
 
 Note About Neural Nets: 
 
-With this kind of problem, neural nets should be obtaining 95%+ accuracy scores, but will require thousands of data points to train them, which this data set does not contain. Further work and exploration on this project could include some kind of memory augmented neural net, such as Neural Turing Machines, which has shown to perform well at learning from a small data set (also called 'one shot learning'). 
+With this kind of problem, neural nets should be obtaining 95%+ accuracy scores, but will require thousands of data points to train them, which this data set does not contain. Further work and exploration on this project could include some kind of memory augmented neural net, such as Neural Turing Machines, which have shown to perform well at learning from a small data set (also called 'one shot learning'). 
