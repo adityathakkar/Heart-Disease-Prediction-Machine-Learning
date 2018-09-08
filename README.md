@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-Machine-Learning
-Predict aniographic vessel diameter narrowing with a variety of machine learning algorithms  
+Predict aniographic vessel diameter narrowing 
 
 This data set is from the UCI Machine Learning library and can be found here: http://archive.ics.uci.edu/ml/datasets/Heart+Disease 
 
